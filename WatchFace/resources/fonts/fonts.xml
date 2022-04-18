@@ -1,0 +1,4 @@
+<fonts>
+    <font id="Baline" filename="baline.fnt"/>
+    <font id="BalineLg" filename="balineLg.fnt" filter="0123456789:"/> 
+</fonts>

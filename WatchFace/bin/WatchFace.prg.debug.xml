@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="1" lineNum="7" parent="globals/WatchFaceApp" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="1" lineNum="8" parent="globals/WatchFaceApp" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="2" lineNum="12" parent="globals/WatchFaceApp" pc="268435479" symbol="onStart"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="3" lineNum="16" parent="globals/WatchFaceApp" pc="268435484" symbol="onStop"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="4" lineNum="20" parent="globals/WatchFaceApp" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="4" lineNum="21" parent="globals/WatchFaceApp" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="5" lineNum="25" parent="globals/WatchFaceApp" pc="268435531" symbol="onSettingsChanged"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="5" lineNum="26" parent="globals/WatchFaceApp" pc="268435535" symbol="onSettingsChanged"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="6" lineNum="5" parent="globals/WatchFaceApp" pc="268437808" symbol="&lt;init&gt;"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="6" lineNum="5" parent="globals/WatchFaceApp" pc="268437808" symbol="&lt;init&gt;"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="7" lineNum="31" parent="globals" pc="268435552" symbol="getApp"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceApp.mc" id="7" lineNum="32" parent="globals" pc="268435564" symbol="getApp"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="9" lineNum="13" parent="globals/WatchFaceView" pc="268435581" symbol="initialize"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="9" lineNum="14" parent="globals/WatchFaceView" pc="268435585" symbol="initialize"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="10" lineNum="18" parent="globals/WatchFaceView" pc="268435604" symbol="onLayout"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="10" lineNum="19" parent="globals/WatchFaceView" pc="268435608" symbol="onLayout"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="10" lineNum="20" parent="globals/WatchFaceView" pc="268435651" symbol="onLayout"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="10" lineNum="21" parent="globals/WatchFaceView" pc="268435694" symbol="onLayout"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="11" lineNum="27" parent="globals/WatchFaceView" pc="268435732" symbol="onShow"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="12" lineNum="31" parent="globals/WatchFaceView" pc="268435737" symbol="onUpdate"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="12" lineNum="32" parent="globals/WatchFaceView" pc="268435741" symbol="onUpdate"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="12" lineNum="33" parent="globals/WatchFaceView" pc="268435752" symbol="onUpdate"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="12" lineNum="36" parent="globals/WatchFaceView" pc="268435769" symbol="onUpdate"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="12" lineNum="37" parent="globals/WatchFaceView" pc="268435789" symbol="onUpdate"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="12" lineNum="38" parent="globals/WatchFaceView" pc="268435803" symbol="onUpdate"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="41" parent="globals/WatchFaceView" pc="268435818" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="42" parent="globals/WatchFaceView" pc="268435822" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="43" parent="globals/WatchFaceView" pc="268435839" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="44" parent="globals/WatchFaceView" pc="268435849" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="45" parent="globals/WatchFaceView" pc="268435859" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="46" parent="globals/WatchFaceView" pc="268435869" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="47" parent="globals/WatchFaceView" pc="268435882" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="48" parent="globals/WatchFaceView" pc="268435916" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="49" parent="globals/WatchFaceView" pc="268435965" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="13" lineNum="50" parent="globals/WatchFaceView" pc="268435991" symbol="analogClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="14" lineNum="53" parent="globals/WatchFaceView" pc="268436018" symbol="drawHand"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="14" lineNum="55" parent="globals/WatchFaceView" pc="268436022" symbol="drawHand"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="14" lineNum="56" parent="globals/WatchFaceView" pc="268436220" symbol="drawHand"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="15" lineNum="59" parent="globals/WatchFaceView" pc="268436239" symbol="drawTick"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="15" lineNum="60" parent="globals/WatchFaceView" pc="268436243" symbol="drawTick"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="15" lineNum="61" parent="globals/WatchFaceView" pc="268436441" symbol="drawTick"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="16" lineNum="64" parent="globals/WatchFaceView" pc="268436460" symbol="drawTicks"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="16" lineNum="65" parent="globals/WatchFaceView" pc="268436464" symbol="drawTicks"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="16" lineNum="66" parent="globals/WatchFaceView" pc="268436482" symbol="drawTicks"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="70" parent="globals/WatchFaceView" pc="268436537" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="71" parent="globals/WatchFaceView" pc="268436541" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="72" parent="globals/WatchFaceView" pc="268436555" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="73" parent="globals/WatchFaceView" pc="268436574" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="74" parent="globals/WatchFaceView" pc="268436593" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="75" parent="globals/WatchFaceView" pc="268436614" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="76" parent="globals/WatchFaceView" pc="268436635" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="77" parent="globals/WatchFaceView" pc="268436659" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="78" parent="globals/WatchFaceView" pc="268436690" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="79" parent="globals/WatchFaceView" pc="268436721" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="17" lineNum="81" parent="globals/WatchFaceView" pc="268436771" symbol="drawRotatedPolygon"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="84" parent="globals/WatchFaceView" pc="268436786" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="85" parent="globals/WatchFaceView" pc="268436790" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="86" parent="globals/WatchFaceView" pc="268436797" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="87" parent="globals/WatchFaceView" pc="268436814" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="88" parent="globals/WatchFaceView" pc="268436824" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="89" parent="globals/WatchFaceView" pc="268436849" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="90" parent="globals/WatchFaceView" pc="268436860" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="93" parent="globals/WatchFaceView" pc="268436876" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="94" parent="globals/WatchFaceView" pc="268436904" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="95" parent="globals/WatchFaceView" pc="268436911" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="98" parent="globals/WatchFaceView" pc="268436932" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="99" parent="globals/WatchFaceView" pc="268436997" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="100" parent="globals/WatchFaceView" pc="268437021" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="101" parent="globals/WatchFaceView" pc="268437058" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="18" lineNum="102" parent="globals/WatchFaceView" pc="268437078" symbol="digitalClock"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="105" parent="globals/WatchFaceView" pc="268437093" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="106" parent="globals/WatchFaceView" pc="268437097" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="107" parent="globals/WatchFaceView" pc="268437116" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="108" parent="globals/WatchFaceView" pc="268437149" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="109" parent="globals/WatchFaceView" pc="268437225" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="110" parent="globals/WatchFaceView" pc="268437249" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="111" parent="globals/WatchFaceView" pc="268437286" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="19" lineNum="112" parent="globals/WatchFaceView" pc="268437306" symbol="date"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="20" lineNum="118" parent="globals/WatchFaceView" pc="268437321" symbol="onHide"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="21" lineNum="122" parent="globals/WatchFaceView" pc="268437326" symbol="onExitSleep"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="22" lineNum="126" parent="globals/WatchFaceView" pc="268437331" symbol="onEnterSleep"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="23" lineNum="8" parent="globals/WatchFaceView" pc="268437827" symbol="&lt;init&gt;"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="23" lineNum="11" parent="globals/WatchFaceView" pc="268437845" symbol="&lt;init&gt;"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceView.mc" id="23" lineNum="8" parent="globals/WatchFaceView" pc="268437827" symbol="&lt;init&gt;"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="25" lineNum="8" parent="globals/Background" pc="268437336" symbol="initialize"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="25" lineNum="9" parent="globals/Background" pc="268437340" symbol="initialize"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="25" lineNum="13" parent="globals/Background" pc="268437361" symbol="initialize"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="26" lineNum="16" parent="globals/Background" pc="268437382" symbol="draw"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="26" lineNum="18" parent="globals/Background" pc="268437386" symbol="draw"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="26" lineNum="19" parent="globals/Background" pc="268437435" symbol="draw"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="27" lineNum="6" parent="globals/Background" pc="268437789" symbol="&lt;init&gt;"/>
+        <entry filename="/home/mrostling/workspace/garmin-watch-face/WatchFace/source/WatchFaceBackground.mc" id="27" lineNum="6" parent="globals/Background" pc="268437789" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="2" parent="globals/Rez/Drawables" pc="268437898" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="6" parent="globals/Rez/Fonts" pc="268437900" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="11" parent="globals/Rez/JsonData" pc="268437902" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="20" parent="globals/Rez/Layouts" pc="268437448" symbol="WatchFace"/>
+        <entry filename="Rez" id="32" lineNum="22" parent="globals/Rez/Layouts" pc="268437460" symbol="WatchFace"/>
+        <entry filename="Rez" id="32" lineNum="23" parent="globals/Rez/Layouts" pc="268437484" symbol="WatchFace"/>
+        <entry filename="Rez" id="32" lineNum="24" parent="globals/Rez/Layouts" pc="268437617" symbol="WatchFace"/>
+        <entry filename="Rez" id="32" lineNum="26" parent="globals/Rez/Layouts" pc="268437750" symbol="WatchFace"/>
+        <entry filename="Rez" id="33" lineNum="13" parent="globals/Rez/Layouts" pc="268437901" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="31" parent="globals/Rez/Menus" pc="268437899" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="35" lineNum="33" parent="globals/Rez/Strings" pc="268437903" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="1" parent="globals/Rez" pc="268437874" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="1" parent="globals/Rez" pc="268437874" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="18" method="true" symbol="digitalClock"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="27" symbol="ColorRed"/>
+        <entry id="9" object="true" symbol="WatchFaceApp"/>
+        <entry field="true" id="32" symbol="MilitaryFormatTitle"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="26" symbol="ColorBlue"/>
+        <entry field="true" id="35" symbol="AppName"/>
+        <entry id="19" method="true" symbol="date"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="15" method="true" symbol="drawTick"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="13" method="true" symbol="analogClock"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389348" symbol="font"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="31" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="34" symbol="ColorWhite"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="33" symbol="ColorBlack"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="12" symbol="TWO_PI"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="14" method="true" symbol="drawHand"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="16" method="true" symbol="drawTicks"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="30" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="23" symbol="Baline"/>
+        <entry id="17" method="true" symbol="drawRotatedPolygon"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="24" symbol="BalineLg"/>
+        <entry field="true" id="11" symbol="fontLg"/>
+        <entry id="10" object="true" symbol="WatchFaceView"/>
+        <entry field="true" id="25" symbol="ColorLightGray"/>
+        <entry id="8391701" method="true" symbol="setAntiAlias"/>
+        <entry field="true" id="29" symbol="ColorRoseGold"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="28" symbol="ForegroundColorTitle"/>
+        <entry id="20" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435731" name="dc" stackId="1" startPc="268435604"/>
+        <entry arg="true" endPc="268435817" name="dc" stackId="1" startPc="268435737"/>
+        <entry endPc="268436016" name="hour" stackId="3" startPc="268435822"/>
+        <entry endPc="268436016" name="hoursAngle" stackId="7" startPc="268435822"/>
+        <entry endPc="268436016" name="minutesAngle" stackId="6" startPc="268435822"/>
+        <entry endPc="268436016" name="hourFraction" stackId="5" startPc="268435822"/>
+        <entry endPc="268436016" name="clockTime" stackId="2" startPc="268435822"/>
+        <entry endPc="268436016" name="minute" stackId="4" startPc="268435822"/>
+        <entry arg="true" endPc="268436017" name="dc" stackId="1" startPc="268435818"/>
+        <entry endPc="268436237" name="coords" stackId="5" startPc="268436022"/>
+        <entry arg="true" endPc="268436238" name="dc" stackId="1" startPc="268436018"/>
+        <entry arg="true" endPc="268436238" name="width" stackId="4" startPc="268436018"/>
+        <entry arg="true" endPc="268436238" name="length" stackId="3" startPc="268436018"/>
+        <entry arg="true" endPc="268436238" name="angle" stackId="2" startPc="268436018"/>
+        <entry endPc="268436458" name="coords" stackId="5" startPc="268436243"/>
+        <entry arg="true" endPc="268436459" name="dc" stackId="1" startPc="268436239"/>
+        <entry arg="true" endPc="268436459" name="width" stackId="4" startPc="268436239"/>
+        <entry arg="true" endPc="268436459" name="length" stackId="3" startPc="268436239"/>
+        <entry arg="true" endPc="268436459" name="angle" stackId="2" startPc="268436239"/>
+        <entry endPc="268436535" name="i" stackId="2" startPc="268436482"/>
+        <entry arg="true" endPc="268436536" name="dc" stackId="1" startPc="268436460"/>
+        <entry endPc="268436757" name="x" stackId="10" startPc="268436659"/>
+        <entry endPc="268436757" name="y" stackId="11" startPc="268436659"/>
+        <entry endPc="268436770" name="i" stackId="9" startPc="268436659"/>
+        <entry endPc="268436784" name="result" stackId="4" startPc="268436541"/>
+        <entry endPc="268436784" name="sin" stackId="8" startPc="268436541"/>
+        <entry endPc="268436784" name="cos" stackId="7" startPc="268436541"/>
+        <entry endPc="268436784" name="centerY" stackId="6" startPc="268436541"/>
+        <entry endPc="268436784" name="centerX" stackId="5" startPc="268436541"/>
+        <entry arg="true" endPc="268436785" name="dc" stackId="1" startPc="268436537"/>
+        <entry arg="true" endPc="268436785" name="poly" stackId="3" startPc="268436537"/>
+        <entry arg="true" endPc="268436785" name="angle" stackId="2" startPc="268436537"/>
+        <entry endPc="268437091" name="hours" stackId="4" startPc="268436790"/>
+        <entry endPc="268437091" name="timeString" stackId="5" startPc="268436790"/>
+        <entry endPc="268437091" name="clockTime" stackId="3" startPc="268436790"/>
+        <entry endPc="268437091" name="time" stackId="6" startPc="268436790"/>
+        <entry endPc="268437091" name="timeFormat" stackId="2" startPc="268436790"/>
+        <entry arg="true" endPc="268437092" name="dc" stackId="1" startPc="268436786"/>
+        <entry endPc="268437319" name="date" stackId="5" startPc="268437097"/>
+        <entry endPc="268437319" name="now" stackId="2" startPc="268437097"/>
+        <entry endPc="268437319" name="dateString" stackId="4" startPc="268437097"/>
+        <entry endPc="268437319" name="info" stackId="3" startPc="268437097"/>
+        <entry arg="true" endPc="268437320" name="dc" stackId="1" startPc="268437093"/>
+        <entry endPc="268437380" name="dictionary" stackId="1" startPc="268437340"/>
+        <entry arg="true" endPc="268437447" name="dc" stackId="1" startPc="268437382"/>
+        <entry endPc="268437786" name="rez_cmp_local_custom_drawable_79797237711788591251" stackId="2" startPc="268437460"/>
+        <entry endPc="268437786" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437460"/>
+        <entry endPc="268437786" name="rez_cmp_local_text_DateLabel" stackId="4" startPc="268437460"/>
+        <entry arg="true" endPc="268437787" name="dc" stackId="1" startPc="268437448"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Baline"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="BalineLg"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRoseGold"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/WatchFaceApp" offset="221" parentId="globals" symbolId="WatchFaceApp" type="class"/>
+        <dataEntry label="globals/WatchFaceView" offset="300" parentId="globals" symbolId="WatchFaceView" type="class"/>
+        <dataEntry label="globals/Rez" offset="475" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="554" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="593" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="624" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="671" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="710" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="741" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="WatchFaceApp" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435483" name="onStart" parent="WatchFaceApp" startPc="268435479">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435488" name="onStop" parent="WatchFaceApp" startPc="268435484">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435530" name="getInitialView" parent="WatchFaceApp" startPc="268435489">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435551" name="onSettingsChanged" parent="WatchFaceApp" startPc="268435531">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437826" name="&lt;init&gt;" parent="WatchFaceApp" startPc="268437808">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435580" name="getApp" startPc="268435552">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435603" name="initialize" parent="WatchFaceView" startPc="268435581">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435731" name="onLayout" parent="WatchFaceView" startPc="268435604">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435736" name="onShow" parent="WatchFaceView" startPc="268435732">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435817" name="onUpdate" parent="WatchFaceView" startPc="268435737">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436017" name="analogClock" parent="WatchFaceView" startPc="268435818">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436238" name="drawHand" parent="WatchFaceView" startPc="268436018">
+            <param id="dc"/>
+            <param id="angle"/>
+            <param id="length"/>
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436459" name="drawTick" parent="WatchFaceView" startPc="268436239">
+            <param id="dc"/>
+            <param id="angle"/>
+            <param id="length"/>
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436536" name="drawTicks" parent="WatchFaceView" startPc="268436460">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436785" name="drawRotatedPolygon" parent="WatchFaceView" startPc="268436537">
+            <param id="dc"/>
+            <param id="angle"/>
+            <param id="poly"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437092" name="digitalClock" parent="WatchFaceView" startPc="268436786">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437320" name="date" parent="WatchFaceView" startPc="268437093">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437325" name="onHide" parent="WatchFaceView" startPc="268437321">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437330" name="onExitSleep" parent="WatchFaceView" startPc="268437326">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437335" name="onEnterSleep" parent="WatchFaceView" startPc="268437331">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437873" name="&lt;init&gt;" parent="WatchFaceView" startPc="268437827">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437381" name="initialize" parent="Background" startPc="268437336">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437447" name="draw" parent="Background" startPc="268437382">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437807" name="&lt;init&gt;" parent="Background" startPc="268437789">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437898" name="&lt;init&gt;" parent="Drawables" startPc="268437898">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437900" name="&lt;init&gt;" parent="Fonts" startPc="268437900">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437902" name="&lt;init&gt;" parent="JsonData" startPc="268437902">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437787" name="WatchFace" parent="Layouts" startPc="268437448">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437901" name="&lt;init&gt;" parent="Layouts" startPc="268437901">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437899" name="&lt;init&gt;" parent="Menus" startPc="268437899">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437903" name="&lt;init&gt;" parent="Strings" startPc="268437903">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437897" name="&lt;init&gt;" parent="Rez" startPc="268437874">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
